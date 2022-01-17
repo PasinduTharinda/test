@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Jan 17, 2022 at 07:44 AM
+-- Generation Time: Jan 17, 2022 at 02:38 PM
 -- Server version: 5.7.36
 -- PHP Version: 7.4.26
 
@@ -42,7 +42,11 @@ INSERT INTO `loginform` (`username`, `password`) VALUES
 ('tharinda', '1233'),
 ('raththaran', 'paso'),
 ('hello', 'hello'),
-('adada', 'a4651ada');
+('adada', 'a4651ada'),
+('Pasindu Tharinda', 'wwwww'),
+('aaaaa', 'aaaa'),
+('Pasindu Tharinda', 'aaaa'),
+('sdad', 'dada');
 
 -- --------------------------------------------------------
 
